@@ -76,6 +76,3 @@ gcc -o PackageTrackingSystem main.c
    ```
    Enter action (add, display, update, exit): exit
    ```
-
-Feel free to customize the program or add more features based on your specific requirements. Enjoy tracking your packages!
-```
